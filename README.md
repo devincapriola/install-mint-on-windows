@@ -36,3 +36,31 @@ This guide will walk you through the process of installing Linux Mint on a Windo
 
 9. Once the process is complete, Rufus will display a message indicating that the bootable USB drive has been created successfully. You can now close Rufus.
 
+## Installing Linux Mint
+
+1. Restart your computer and enter the BIOS/UEFI settings. The key to access these settings may vary depending on your computer manufacturer, but **commonly used keys are F2 or Del**. Consult your computer's documentation or search online for the specific key to enter the BIOS/UEFI settings.
+
+2. In the BIOS/UEFI settings, navigate to the "Boot" or "Boot Order" section and change the boot priority to give the USB drive the highest priority. This will ensure that your computer boots from the USB drive instead of the internal hard drive.
+
+3. Save the changes and exit the BIOS/UEFI settings. Your computer will restart.
+
+4. When your computer starts up, it should boot from the USB drive and display the Linux Mint installation menu. Select the "Start Linux Mint" option to boot into the live desktop environment.
+
+5. Once the live desktop environment loads, double-click on the "Install Linux Mint" icon to start the installation process.
+
+6. Follow the on-screen instructions to choose your language, keyboard layout, and installation options. You can choose to install Linux Mint alongside Windows or replace Windows entirely. Make sure to select the correct options according to your preferences.
+
+7. When prompted, select the partition on which you want to install Linux Mint. If you chose to install Linux Mint alongside Windows, you will need to allocate disk space for the Linux Mint installation. You can drag the partition resizing bar to adjust the partition sizes.
+
+8. After selecting the partition, click "Install Now" to begin the installation process. A confirmation dialog will appear. Click "Continue" to proceed.
+
+9. During the installation, you will be prompted to set your location, create a username and password, and choose additional options such as whether to encrypt your home folder. Follow the on-screen instructions and provide the necessary information.
+
+10. The installation process may take some time to complete. Once it finishes, you will see a message indicating that the installation was successful.
+
+11. Restart your computer, and you should see a boot menu that allows you to choose between Windows and Linux Mint. Use the arrow keys to select the operating system you want to boot into and press Enter.
+
+**Congratulations! You have successfully installed Linux Mint alongside Windows on your computer. Enjoy using Linux Mint and exploring its features.**
+
+## Troubleshooting
+If your computer does not boot from the USB drive, you may need to change the boot priority settings in the BIOS/UEFI settings again and ensure that the USB drive
